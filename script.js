@@ -1,4 +1,4 @@
-AOS.init();
+// AOS.init();
 //script for Google Sheet
 var scriptURL = "https://script.google.com/macros/s/AKfycbzS0lF3hALhPMOor7WGf6MF1XeAQT01lBOmQvS2r3nSOTEzdV6eEEEEFQ081rUt3g3EDA/exec";
 var form = document.forms['google-sheet'];
